@@ -1,0 +1,64 @@
+/* navbar */
+
+#navbar
+{
+    padding: 0 5%;
+}
+nav
+{
+    background-color: rgb(95, 89, 89);
+    border-radius: 2rem;
+}
+.navbar-brand
+{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    padding-left: 1.3rem;
+}
+a.navbar-brand
+{
+    font-size:xx-large ;
+}
+.logo
+{
+    padding-left: 1.5rem;
+}
+
+/* navbar-complete */
+
+/* container */
+#container
+{
+    margin-top: 4%;
+    text-align:center;
+}
+
+.col2
+{
+    border-color: grey;
+    border-style: dashed;
+    margin: 2% 2% 2% 8%;
+    padding-bottom: 2%;
+}
+.col1
+{
+    margin: 2% 2% 2% 8%;
+}
+.img1
+{
+    width: 395;
+    height: 330px;
+    object-fit: cover;
+}
+/* container-complete */
+
+/* contact */
+.icon1
+{
+    text-decoration: none;
+}
+#contact
+{
+    text-align: center;
+    padding: 6% 15%;
+}
+ /* contact-complete */
